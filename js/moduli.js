@@ -3,7 +3,7 @@
    - "Scarica PDF": i campi compilati vengono riprodotti fedelmente nel PDF A4 */
 
 // Indirizzo di ricezione dei moduli (Google Apps Script). Vuoto = invio non ancora attivo.
-window.CSAIN_INVIO_URL = window.CSAIN_INVIO_URL || '';
+window.CSAIN_INVIO_URL = window.CSAIN_INVIO_URL || 'https://script.google.com/macros/s/AKfycbxGcBpc9JWu1caF2yc9nfbpF5SQBUTQyfuhuBShbws4-eZWk_uVGoec0KKpB8sV6UA8Pg/exec';
 
 (function () {
   var FIELDS = 'input:not([type=hidden]):not([type=button]):not([type=submit]), textarea, select';
