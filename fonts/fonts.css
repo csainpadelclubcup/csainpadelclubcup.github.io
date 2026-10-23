@@ -1,0 +1,12 @@
+/* Caratteri ospitati sul sito: nessuna richiesta a server esterni */
+@font-face{font-family:'Barlow';src:url(Barlow-Regular.woff2) format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'Barlow';src:url(Barlow-Medium.woff2) format('woff2');font-weight:500;font-display:swap}
+@font-face{font-family:'Barlow';src:url(Barlow-SemiBold.woff2) format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:'Barlow';src:url(Barlow-Bold.woff2) format('woff2');font-weight:700;font-display:swap}
+@font-face{font-family:'Barlow Condensed';src:url(BarlowCondensed-SemiBold.woff2) format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:'Barlow Condensed';src:url(BarlowCondensed-Bold.woff2) format('woff2');font-weight:700;font-display:swap}
+@font-face{font-family:'Barlow Condensed';src:url(BarlowCondensed-ExtraBold.woff2) format('woff2');font-weight:800;font-display:swap}
+@font-face{font-family:'Caladea';src:url(Caladea-Regular.woff2) format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Caladea';src:url(Caladea-Bold.woff2) format('woff2');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:'Caladea';src:url(Caladea-Italic.woff2) format('woff2');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:'Inter';src:url(Inter.woff2) format('woff2');font-weight:100 900;font-display:swap}
