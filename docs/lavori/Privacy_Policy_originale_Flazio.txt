@@ -1,0 +1,353 @@
+PRIVACY POLICY
+
+Questo sito web raccoglie alcune informazioni personali dei propri visitatori.
+
+
+
+Premessa
+
+Associazione Sportiva Dilettantistica Sport & Services, con sede legale Via Flaminia, 657, S1 - 00191 - Roma (RM) (di seguito Associazione Sportiva Dilettantistica Sport & Services), si impegna costantemente per tutelare la privacy on-line dei suoi utenti. Il presente documento è stato redatto conformemente alle previsioni dell’art. 13 del Regolamento UE 2016/679 (di seguito: "Regolamento") al fine di consentirle di conoscere la nostra politica sulla privacy, così da essere informato circa le modalità con cui vengono gestite le sue informazioni personali quando utilizza il nostro sito web (di seguito “Sito”) e poter prestare il consenso espresso al trattamento dei suoi dati personali in modo consapevole. Tutte le informazioni e i dati da lei forniti o diversamente acquisiti nell'ambito dell’utilizzo dei servizi di richiesta di informazioni, di assistenza tecnica, di promozione e di invio di newsletter commerciali, o altre azioni - come ad esempio l’accesso all’area riservata del Sito web - verranno trattate nel rispetto delle disposizioni del Regolamento e degli obblighi di riservatezza cui è improntata l'attività di Associazione Sportiva Dilettantistica Sport & Services.Tutte le attività volte al trattamento dei dati degli utenti del sito web effettuate da Associazione Sportiva Dilettantistica Sport & Services sono ispirate ai principi di liceità, correttezza, trasparenza, limitazione delle finalità e della conservazione, minimizzazione dei dati, esattezza, integrità e riservatezza, così come richiesto dalle norme del Regolamento.
+
+Definizione di Dato personale
+
+Si definisce dato personale ai sensi dell’art. 4 GDPR qualsiasi informazione riguardante una persona fisica identificata o identificabile («interessato»). Si considera identificabile la persona fisica che può essere identificata, direttamente o indirettamente, con particolare riferimento a un carattere come il nome, un numero di documento di identità, i dati relativi all'ubicazione, un identificativo online o a uno o più elementi caratteristici della sua identità fisica, fisiologica, genetica, psichica, economica, culturale o sociale. Tutte le informazioni acquisite durante la navigazione nel Sito saranno utilizzate per il perseguimento delle finalità indicate e descritte nel presente Documento. Durante la navigazione nel Sito, la Associazione Sportiva Dilettantistica Sport & Services tratterà i dati acquisiti a seguito delle attività svolte dall’utente durante la navigazione ovvero quelli acquisiti a seguito dell’utilizzo dei servizi forniti dal Sito medesimo. Le informazioni che vengono trattate possono essere inserite manualmente dall’Utente, raccolte in modo automatico o acquisite tramite terze parti. L’Utente ha il diritto di rettificare in qualsiasi momento le sue informazioni personali o di impedire, revocare e/o opporsi alla loro elaborazione.
+
+Tipo di dati trattati
+Dati di contatto
+
+Si tratti dei dati personali in grado di identificare l’Utente attraverso l’indicazione di informazioni come ad es. la ragione sociale e la partita iva, nome e cognome, codice fiscale, indirizzo, indirizzo e-mail e, fax, sito web e data di nascita, numero di telefono o cellulare per le persone fisiche e informazioni fornite in fase di registrazione e id univoci utilizzati da servizi pubblicitari come (es. Google Ads)
+
+Dati acquisiti durante la navigazione del Sito
+
+Gli strumenti informatici adoperati per garantire il corretto funzionamento del Sito acquisiscono alcuni Dati Personali che vengono automaticamente trattati durante l’utilizzo dei normali protocolli di Internet. Sebbene le informazioni acquisite durante la navigazione non vengano raccolte al fine di essere ricondotte a interessati individuati in modo specifico, potrebbero consentire l’identificazione degli utenti a seguito dell’associazione con altri dati detenuti da terzi.
+
+Elenco dati di navigazione
+
+Indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al Sito; gli indirizzi in notazione URI (Uniform Resource Identifier) delle risorse richieste, l'orario della richiesta, il metodo adoperato nel formulare la richiesta al server, il codice numerico che indica lo stato della risposta fornita dal server (operazione andata a buon fine, errore, etc.), la dimensione del file ottenuto in fase di risposta, altri parametri inerenti al sistema operativo. Tutti questi dati vengono utilizzati al solo fine di ricavare informazioni statistiche in forma anonima circa l’uso del Sito, per monitorarne il corretto funzionamento, per rilevare le eventuali anomalie e/o usi difformi. I dati acquisiti per tali finalità vengono cancellati subito dopo la loro elaborazione. I dati potrebbero, altresì, essere utilizzati per l'accertamento di responsabilità in caso eventuali reati informatici ai danni del sito o di terzi. Alcune sezioni e funzionalità del Sito predisposte all’acquisizione di Dati personali dell’Utente potrebbero richiedere che vengano rilasciati Dati Personali riconducibili alla categorie di cui all’art. 9 del Regolamento, ossia i “[…] dati idonei a rivelare l'origine razziale o etnica, le opinioni politiche, le convinzioni religiose o filosofiche, o l'appartenenza sindacale, nonché trattare dati genetici, dati biometrici intesi a identificare in modo univoco una persona fisica, dati relativi alla salute o alla vita sessuale o all'orientamento sessuale della persona”. La Associazione Sportiva Dilettantistica Sport & Services invita i propri utenti a non pubblicare tali dati se non quando ritenuto strettamente necessario. Ad ogni modo, l ’eventuale pubblicazione a cura dell’Utente di informazioni strettamente personali, pur in assenza di specifica manifestazione del consenso a trattare tali dati, solleva la Associazione Sportiva Dilettantistica Sport & Services da ogni responsabilità, la quale non potrà essere esposta a contestazioni di alcuna natura poiché, in tal caso, il trattamento degli stessi dovrà ritenersi autorizzato a seguito della scelta libera e informata dell'interessato di volerli rendere manifestamente pubblici in ossequio al disposto contenuto all’art. 9 (1) (e) del Regolamento.
+
+Dati rilasciati volontariamente dall’utente
+
+Nel caso in cui l’Utente, adoperando alcune Funzionalità del Sito dovesse rilasciare a Associazione Sportiva Dilettantistica Sport & Services Dati Personali appartenenti a terzi soggetti, l’Utente assume la posizione di Titolare del Trattamento, con tutti gli obblighi e le responsabilità di legge da essa derivanti. Ne consegue che, l’Utente manleva la Associazione Sportiva Dilettantistica Sport & Services da ogni responsabilità relativamente ad eventuali contestazioni, pretese, richieste di risarcimento del danno, ecc. che dovesse pervenire da parte di terzi soggetti i cui Dati Personali siano stati trattati in violazione delle norme sulla tutela dei dati personali applicabili a seguito dell’uso delle funzionalità presenti sul Sito da parte dell’Utente.
+
+Cookie
+Premesse di carattere generale e definizione
+
+I cookie sono file (metadati) che vengono memorizzati sui device adoperati dagli utenti per la navigazione sul Sito. Tali file vengono inviati dal Sito e vengono registrati sul computer o dispositivo mobile adoperato dall’Utente al fine di essere ritrasmessi in seguito agli stessi Siti al momento di una eventuale successiva visita. I cookie, quindi, consentono al Sito di memorizzare le azioni e le preferenze dell'utente (come, ad esempio, i dati di login, la lingua prescelta, le dimensioni dei caratteri, altre impostazioni di visualizzazione, ecc.) ed eliminano la necessità di dover indicare, in occasione di ogni visita del Sito, i dati già forniti in precedenza dall’Utente. Una volta installati sul dispositivo informatico dell’Utente le attività svolte dai cookie, sono: - autenticazioni informatiche; - monitoraggio di sessioni del Sito; - memorizzazione di informazioni riguardanti le attività degli utenti che accedono al Sito; - tracciabilità della navigazione dell'utente all'interno del Sito per finalità statistiche e/o pubblicitarie. Durante la navigazione nel Sito l'Utente potrebbe ricevere sul suo computer cookie provenienti da siti diversi da quello che sta visitando. In questo caso si parla di cookie di "terze parti". Esistono diversi tipi di file cookie. I cookie possono essere elaborati per svolgere funzioni differenti tra loro e sono, quindi, dotati di caratteristiche diverse a seconda delle funzioni svolte. Ad esempio, è possibile distinguere cookie persistenti, i quali sono destinati a rimanere sul dispositivo dell'utente fino ad una scadenza predeterminata; cookie di sessione, i quali si cancellano automaticamente alla chiusura del browser; "cookie di profilazione", ossia quelli volti ad elaborare il profilo dell’Utente sulla base delle informazioni rilevate durante la navigazione, al fine di inviare messaggi pubblicitari in linea con le sue preferenze. L’uso di cookies temporanei è limitato a fornire una navigazione sicura ed efficiente nel Sito, nonchè per identificare l’Utente al fine di garantire una corretta erogazione del servizio richiesto su questo Sito. Al fine di un corretto funzionamento del sito web si richiede che l’Utente inserisca tutte le informazioni personali richieste. Per questa tipologia di cookie è richiesto un preventivo consenso da parte dell'Utente. La normativa vigente in Italia non sempre richiede un espresso consenso dell'utente per permettere al Titolare del sito l'utilizzo dei cookie. I “cookie tecnici”, ad esempio, non richiedono tale consenso in quanto, trattandosi di file indispensabili per il corretto funzionamento del Sito sono utilizzati al solo fine di garantire la corretta erogazione di un servizio espressamente richiesto dall'Utente. Si tratta di cookie necessari che devono essere installati sul dispositivo dell’Utente al fine di garantire il compimento di alcune operazioni. In questo caso si parla di “cookie tecnici” necessari per il funzionamento del Sito stesso. Tra i cookie tecnici, adoperati da questo Sito e che non richiedono un consenso espresso per il loro utilizzo, il Garante per la protezione dei dati personali italiano ricomprende anche: - i cookie di navigazione o di sessione necessari per l’autenticazione dell’Utente; - i "cookie analytics" adoperati direttamente dal gestore del sito per raccogliere informazioni, in forma aggregata, sul numero degli utenti e sulle modalità con cui gli stessi navigano sul sito; - i cookie di funzionalità, che servono a consentire la navigazione su criteri predeterminati (ad es. la lingua);
+
+Tipologie di cookie utilizzate dal Sito
+
+Il Sito utilizza i seguenti cookie: - Cookie tecnici di navigazione o sessione, strettamente necessari per il funzionamento del Sito o per consentire all’Utente di usufruire dei contenuti e dei servizi richiesti dallo stesso. N.B. la disattivazione dei cookie tecnici e/o di funzionalità il Sito potrebbe funzionare correttamente e l’Utente potrebbe essere costretto a modificare o a inserire manualmente alcune informazioni o preferenze ogni volta che visiterà il Sito. - Cookie funzionali, utilizzati per attivare specifiche funzionalità del Sito e una serie di criteri selezionati (ad es. la lingua) al fine di migliorare il servizio reso. - Cookie non tecnici, servono ad identificare l’Utente e a tracciare le attività svolte sul Sito. La finalità è quello di consentire la visualizzazione di annunci pertinenti e d'interesse per l’Utente scelti da terzi (es. editori e inserzionisti) in base alle sue preferenze. - Cookie di terze parti, cioè cookie di siti o di web server diversi da quello di Associazione Sportiva Dilettantistica Sport & Services utilizzati per finalità proprie di dette parti terze. Si precisa che tali soggetti terzi, di seguito elencati con i relativi collegamenti alle politiche sulla privacy, sono titolari del trattamento dei dati raccolti attraverso i cookie da essi serviti e rispondono autonomamente delle loro attività. L’Utente dovrà, quindi, fare riferimento alle privacy policy di trattamento di dati personali, alle informative e ai moduli di consenso dei soggetti terzi, come previsto dal Provvedimento di Individuazione delle modalità semplificate per l'informativa e l'acquisizione del consenso per l'uso dei cookie dell'8 maggio 2014 e dalle Linee guida sull'utilizzo dei cookie e di altri strumenti di tracciamento del 10 giugno 2021. Per completezza, si precisa che Associazione Sportiva Dilettantistica Sport & Services si adopera al massimo delle proprie potenzialità per poter tracciare i cookie sul proprio Sito.
+
+Aggiornamento dei cookie
+
+I file cookie adoperati da Associazione Sportiva Dilettantistica Sport & Services sono regolarmente e costantemente aggiornati nella tabella di seguito riportata. Per quanto concerne le terze parti che inviano cookie tramite il nostro Sito, forniamo di seguito i link alle rispettive informative privacy. Le terze parti hanno la responsabilità di fornire l'informativa e raccogliere il consenso dell’Utente, in ottemperanza delle prescrizioni contenute nel Provvedimento in precedenza citato, in quanto, relativamente a tali cookie, Associazione Sportiva Dilettantistica Sport & Services non può eseguire nessun controllo idoneo a garantire il rispetto delle prescrizioni di legge. Di seguito i link alle informazioni sui cookie di terze parti: Google: https://policies.google.com/technologies/partner-sites Google Adwords: https://policies.google.com/technologies/cookies Facebook: https://www.facebook.com/policies/cookies/ Youtube: https://policies.google.com/technologies/cookies?hl=it Instagram: https://privacycenter.instagram.com/policies/cookies/ X: https://twitter.com/en/privacy LinkedIn: https://www.linkedin.com/legal/cookie-policy
+
+Impostazioni relative ai cookie
+
+È possibile bloccare, cancellare (in tutto o in parte) o modificare le impostazioni relative ai cookie attraverso le specifiche funzioni del Browser adoperato dall’Utente, il quale, con il presente Documento, viene informato del fatto che non autorizzare l’installazione dei cookie tecnici potrebbe comportare il malfunzionamento del Sito; Limitare l’installazione dei cookie di funzionalità potrebbe comportare che alcuni servizi e/o funzioni del Sito non siano disponibili o non funzionino correttamente e l’Utente potrebbe essere costretto a modificare o a inserire manualmente alcune informazioni o preferenze ogni volta che visiterà il Sito. Le sue preferenze in riferimento ai cookie potrebbero richiedere un’azione volta a reimpostarle nel caso accesso al Sito tramite dispositivi o Browser diversi.
+
+Visualizzazione e modifica dei cookie
+
+L’utente può autorizzare, bloccare o cancellare (in tutto o in parte) i cookie attraverso le specifiche funzioni del Browser adoperato per la navigazione. Per avere maggiori informazioni su come impostare le preferenze sull'uso dei cookie attraverso il Browser, è possibile consultare le relative istruzioni: Microsoft Edge: https://support.google.com/accounts/answer/61416?hl=it Firefox: https://support.mozilla.org/it/kb/protezione-antitracciamento-avanzata-firefox-desktop Chrome: https://support.google.com/accounts/answer/61416?hl=it Safari: https://support.apple.com/kb/PH19214?locale=it_IT Per le informative e per disattivare i cookie analitici e di profilazione erogati da terze visitare il sito https://www.youronlinechoices.com
+
+Riferimenti Legali
+
+Il trattamento dei dati avviene nel rispetto del principio di liceità di cui all’art. 6 del GDPR, che viene perseguito con la modalità del consenso rilasciato da parte dell’Utente con cui questi autorizza il titolare e il responsabile del trattamento ad eseguire tutte le attività necessarie al raggiungimento delle finalità indicate nel presente Documento. La necessità di trattare i dati può basarsi, altresì, sulla circostanza per cui deve darsi luogo all’esecuzione di un contratto in cui il cliente è una parte contraente, ovvero per adottare le misure necessarie prima della stipula del contratto su richiesta del cliente, o ancora per legittimo interesse (cfr. art. 6(1)(a), (b), (f) del GDPR). I Dati conservati esclusivamente per scopi collegati all’esecuzione delle finalità richieste dall’Utente possono essere trattati da questo Sito anche quando: - il Titolare possa aver bisogno di utilizzarle per i propri fini e nel proprio interesse; - il Titolare debba ottemperare a richieste di interesse pubblico, anche da parte di autorità; - nelle ipotesi in cui le informazioni rilevate e conservate siano funzionali all’adempimento di obblighi di legge o previsti dalla normativa comunitaria; - quando si renda necessario adempiere ad accordi contrattuali per la fornitura di uno o più servizi anche eventualmente personalizzati; Per maggiori informazioni sulla base giuridica del trattamento, al fine di garantire la corretta formazione di un consenso pieno e informato in capo all’Utente, è possibile contattare il Titolare del Trattamento e il DPO per avere chiarimenti.
+
+Titolare e responsabile del trattamento (“data controller”)
+
+Il titolare del trattamento è definito all’art 4.del GDPR come la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali; quando le finalità e i mezzi di tale trattamento sono determinati dal diritto dell'Unione o degli Stati membri, il titolare del trattamento o i criteri specifici applicabili alla sua designazione possono essere stabiliti dal diritto dell'Unione o degli Stati membri. Il titolare del trattamento dei dati di questo Sito è Associazione Sportiva Dilettantistica Sport & Services Il “responsabile del trattamento” è definito dal Regolamento come la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare del trattamento; Il responsabile del trattamento dei dati di questo Sito è sportandservices@libero.it.
+
+Definizione di trattamento
+
+Ai sensi dell’art. 4 GDPR si definisce “trattamento” qualsiasi operazione o insieme di operazioni, compiute con o senza l'ausilio di processi automatizzati e applicate a dati personali o insiemi di dati personali, come la raccolta, la registrazione, l'organizzazione, la strutturazione, la conservazione, l'adattamento o la modifica, l'estrazione, la consultazione, l'uso, la comunicazione mediante trasmissione, diffusione o qualsiasi altra forma di messa a disposizione, il raffronto o l'interconnessione, la limitazione, la cancellazione o la distruzione;
+
+Modalità di gestione dei Dati
+
+Il modo in cui Associazione Sportiva Dilettantistica Sport & Services rileva e conserva le informazioni attraverso l’utilizzo di strumenti informatici e telematici è strettamente collegato alle modalità di utilizzo delle stesse da parte del titolare di questo Sito.
+
+Profilazione
+
+Ai sensi dell’art. 4 GDPR per Profilazione si intende qualsiasi forma di trattamento automatizzato di dati personali consistente nell'utilizzo di tali dati personali per valutare determinati aspetti personali relativi a una persona fisica, in particolare per analizzare o prevedere aspetti riguardanti il rendimento professionale, la situazione economica, la salute, le preferenze personali, gli interessi, l'affidabilità, il comportamento, l'ubicazione o gli spostamenti di detta persona fisica; I dati personali dell’Utente possono essere oggetto di profilazione al fine di individuare le preferenze dello stesso. L’elaborazione dei dati personali è volta a consentire la visualizzazione di annunci pertinenti e d'interesse per l’Utente scelti da terzi (es. editori e inserzionisti) in base alle sue preferenze.
+
+Luogo di trattamento dei Dati
+
+Il trattamento dei Dati eseguito da questo Sito ha luogo presso la sede aziendale del Titolare del trattamento. Al trattamento dei dati partecipa il personale incaricato del trattamento. Nessuna informazione ottenuta attraverso i servizi web prestati da Associazione Sportiva Dilettantistica Sport & Services viene comunicata o diffusa. Tutte le informazioni fornite dall’Utente che inoltra richieste di invio di materiale informativo sono utilizzate al solo fine di eseguire il servizio o la prestazione richieste dallo stesso e sono comunicate a terzi solo se ciò strettamente necessario, potranno essere trasferiti in un altro paese (art. 3 GDPR). L’Utente conserva tutti i diritti e può richiedere di conoscere i dettagli relativi agli strumenti utilizzati dal proprietario del Sito per la messa in sicurezza delle informazioni rilasciate. L’Utente può, inoltre, richiedere i dettagli relativi al trasferimento delle proprie informazioni personali verso paesi fuori dall’UE e/o verso organizzazioni non governative che non sono sottoposte ad alcuna specifica legislazione. A tal riguardo l’Utente potrà richiedere maggiori informazioni sull’utilizzo delle sue informazioni e sul trasferimento degli stessi contattando direttamente il Titolare del Trattamento e il DPO ai seguenti indirizzi: sportandservices@libero.it
+
+Conservazione e durata della conservazione dei dati personali
+
+I dati personali dell’Utente, acquisiti con le modalità e per le finalità descritte nel presente Documento, vengono conservate avendo cura del rispetto dei parametri di sicurezza, nonché del principio di proporzionalità. La durata della loro conservazione è, infatti, strettamente connessa alla finalità del trattamento in corso. Le informazioni rilevate da questo Sito non verranno trattate per più tempo di quanto non sia strettamente necessario per adempiere alle finalità per le quali queste informazioni sono state raccolte ed elaborate. Le informazioni raccolte dal Titolare per le finalità indicate nel presente Documento verranno conservate sino al raggiungimento di tali scopi. Al termine delle finalità indicate nel presente Documento, le informazioni verranno cancellate e, di conseguenza, tutti i diritti di accesso alle informazioni, cancellazione e portabilità non potranno più essere esercitati dal Titolare del Trattamento. Le informazioni raccolte per dar seguito ad una prestazione contrattuale saranno trattenute sino alla esecuzione della prestazione stessa.
+
+Finalità del trattamento
+
+I dati dell’Utente vengono trattati per garantire la corretta fornitura di servizi erogati attraverso questo sito web. Tra le funzionalità presenti nel Sito attraverso cui possono essere acquisiti e trattati i dati personali dell’Utente sono presenti le seguenti: - commentare; - conservare e visualizzare statistiche; - accedere a servizi forniti da terze parti presenti all'interno del sito o adoperabili tramite API; - servizio di chat con un operatore o con altri utenti; - possibilità di avere un contatto diretto con un operatore o con altri utenti; - gestione dei pagamenti; - richieste di contatto e informazioni di vario genere; - hosting e altre funzionalità atte al completamento della finalità richiesta dal Visitatore; - interazione con social network e piattaforme esterne, - heat mapping e registrazione sessioni; - interazione con le piattaforme di live chat; - advertising, targeting, profilazione, test contenutistici, accesso a informazioni attraverso periferiche, anti-spam; - utilizzo di piattaforme terze per la gestione di richieste e assistenza, registrazione e accesso e trasferimento informazioni; Per maggiori informazioni su tutte le finalità, l’Utente può contattare direttamente il Titolare del trattamento al seguente indirizzo: sportandservices@libero.it
+
+Destinatari dei dati personali
+
+I Dati Personali dell’Utente potranno essere condivisi, per le finalità indicate nel presente Documento con: a. Soggetti che agiscono in qualità di responsabili del trattamento ossia: i) persone, società o studi professionali che prestano attività di assistenza e consulenza a Associazione Sportiva Dilettantistica Sport & Services ii) soggetti con i quali sia necessario interagire per l'erogazione dei Servizi (ad esempio gli hosting provider, fornitore tool) iii) soggetti delegati a svolgere attività di manutenzione tecnica (inclusa la manutenzione degli apparati di rete e delle reti di comunicazione elettronica); b. Soggetti, enti od autorità a cui sia obbligatorio comunicare i suoi dati personali in forza di disposizioni di legge o di ordini delle autorità; c. Persone autorizzate da Associazione Sportiva Dilettantistica Sport & Services al trattamento di Dati Personali necessario a svolgere attività strettamente correlate all'erogazione dei Servizi, che soggiacciono a obblighi di riservatezza (es. dipendenti di Associazione Sportiva Dilettantistica Sport & Services o dipendenti di altre società con cui Associazione Sportiva Dilettantistica Sport & Services intrattiene rapporti commerciali). d. Distributori e rivenditori di iniziative commerciali e di marketing, tramite strumenti automatizzati (SMS, MMS, e-mail, push notifiche) e strumenti non automatizzati (posta cartacea, telefono con operatore). Alcuni suoi Dati Personali potranno infine essere oggetto di diffusione tramite pubblicazione sul Sito per la finalità indicate nel presente Documento.
+
+Trasferimenti dei dati personali
+
+Alcuni Dati Personali dell’Utente verranno condivisi/trasferiti a Destinatari che si potrebbero trovare al di fuori dello Spazio Economico Europeo. Associazione Sportiva Dilettantistica Sport & Services garantisce che il trattamento dei suoi Dati Personali da parte di questi Destinatari avviene nel rispetto del Regolamento.
+
+Diritti degli interessati
+
+Ai sensi degli articoli 15 e seguenti del Regolamento, l’Utente ha il diritto di chiedere, in qualunque momento a Associazione Sportiva Dilettantistica Sport & Services l'accesso ai propri Dati Personali, nonchè la modifica o la cancellazione degli stessi, ovvero di opporsi al loro trattamento. L’utente ha, altresì, diritto di richiedere la limitazione del trattamento nei casi previsti dall'art.18 del Regolamento e ad ottenere i dati che lo riguardano, nei casi previsti dall'art. 20 del Regolamento. Le richieste vanno rivolte per iscritto a Associazione Sportiva Dilettantistica Sport & Services al seguente indirizzo: N.B. l’Utente ha diritto a proporre apposito reclamo all'Autorità di Controllo competente Ai sensi degli articoli 15 e seguenti del Regolamento, l’Utente ha il diritto di chiedere, in qualunque momento a Associazione Sportiva Dilettantistica Sport & Services l'accesso ai propri Dati Personali, nonchè la modifica o la cancellazione degli stessi, ovvero di opporsi al loro trattamento. L’utente ha, altresì, diritto di richiedere la limitazione del trattamento nei casi previsti dall'art. 18 del Regolamento e ad ottenere i dati che lo riguardano, nei casi previsti dall'art. 20 del Regolamento. Le richieste vanno rivolte per iscritto a Associazione Sportiva Dilettantistica Sport & Services al seguente indirizzo: sportandservices@libero.it N.B. l’Utente ha diritto a proporre apposito reclamo all'Autorità di Controllo competente (Garante per la Protezione dei Dati Personali).
+
+Modifiche
+
+La presente privacy policy è in vigore dal 23 Aprile 2024. Associazione Sportiva Dilettantistica Sport & Services si riserva di modificarne o semplicemente aggiornarne il contenuto, in parte o completamente, anche a causa di variazioni della normativa applicabile. Associazione Sportiva Dilettantistica Sport & Services la informerà di tali variazioni non appena verranno introdotte ed esse saranno vincolanti non appena pubblicate sul Sito. Associazione Sportiva Dilettantistica Sport & Services la invita quindi a visitare con regolarità questa sezione per prendere cognizione della più recente ed aggiornata versione della privacy policy in modo da essere sempre aggiornato sui dati raccolti e sull’uso che ne fa Associazione Sportiva Dilettantistica Sport & Services.
+
+Accesso su servizi terzi
+
+I servizi terzi possono richiedere la condivisione delle informazioni presenti nei tuoi account per poter interagire con loro.
+
+Facebook
+
+Questo sito web accede direttamente o via API alle informazioni che il visitatore possa aver inserito all’interno dei servizi di proprietà di Facebook, Inc.
+Informazioni richieste: ID utente, nome utente, immagine profilo, genere utente, lingua dell’utente, lista degli amici e/o follower dell’utente e, in generale, tutte le informazioni che l’utente possa aver inserito all’interno del proprio profilo e che possano essere contenuti all’interno della privacy policy dei servizi di Facebook, Inc.
+Luogo del trattamento: Stati Uniti d'America –Privacy policy.
+
+Twitter
+
+Questo sito web accede direttamente o via API alle informazioni che il visitatore possa aver inserito all’interno dei servizi di proprietà di Twitter, Inc.
+
+Commenti
+
+Gli utenti possono lasciare alcuni commenti all’interno del sito web utilizzando servizi specifici di commento.
+Gli utenti potranno lasciare commenti sul sito web anche in forma anonima. I visitatori hanno la responsabilità dei contenuti pubblicati tramite i propri commenti.
+I servizi terzi di commento potranno richiedere la raccolta delle informazioni, anche a fine statistico.
+
+Commenti Facebook
+
+Questo sito web permette ai suoi visitatori di pubblicare commenti facebook relativamente a una pagina web, a un url, a una pagina facebook o a qualsiasi contenuto presente nei servizi di Facebook, Inc.
+Informazioni richieste: ID visitatore, nome visitatore, immagine profilo, genere, lingua, lista degli amici e/o follower del visitatore, ed in generale tutte le informazioni che il visitatore possa aver inserito all’interno del proprio profilo e che possano essere contenuti all’interno della privacy policy dei servizi di Facebook, Inc.
+Luogo del trattamento: Stati Uniti d’America – Privacy Policy.
+
+Contattare il visitatore
+
+Newsletter/Mailing list
+
+Il visitatore del sito, inserendo il proprio indirizzo e-mail in fase di acquisto di un prodotto, registrandosi al sito, o iscrivendosi alla newsletter/mailing list del sito, autorizza il proprietario del sito a potergli inviare messaggi informativi e/o pubblicitari.
+Informazioni richieste: l’indirizzo e-mail del visitatore che si registra al sito o alla newsletter.
+
+Numero di telefono
+
+Lasciando il proprio recapito telefonico, gli utenti potrebbero essere contattati con varie finalità espresse al momento dell’inserimento del dato numerico.
+
+Form di contatto
+
+Le informazioni indicate dal visitatore al momento della compilazione del modulo e le informazioni inserite nel corpo del messaggio sono utilizzate esclusivamente per rispondere alla richiesta del visitatore stesso.
+Generalità come nome e cognome, indirizzo fisico e mail e altre tipologie delle informazioni al fine di avere maggiori informazioni in merito alla richiesta inoltrata.
+
+Inoltro messaggistica
+
+I servizi terzi che gestiscono database di informazioni di contatto, utilizzati con la finalità di comunicare con il visitatore.
+Questi servizi possono raccogliere informazioni su informazioni di contatto relativi agli invii, alle aperture e ad altri tipi di interazioni.
+
+Mailgun
+
+Mailgun, Inc. è un servizio terzo che permette la gestione di mailing list, invi e statistiche sugli invii via mail per newsletter e automazioni.
+Informazioni richieste: Nome, cognome, email e altre informazioni richieste per la personalizzazione della comunicazione.
+Luogo del trattamento: Stati Uniti d’America – Privacy Policy.
+
+Hosting
+
+I servizi inerenti all’hosting raccolgono informazioni necessarie per il corretto funzionamento del sito web e delle sue funzionalità al fine di erogare i servizi richiesti dal visitatore.
+I servizi di hosting utilizzano server presenti in luoghi differenti pertanto non è possibile stabilire con esattezza il luogo di conservazione delle informazioni.
+
+Google Cloud Storage
+
+Google Cloud Storage è una piattaforma di hosting in cloud gestita da Google Ireland ltd.
+Informazioni richieste: le informazioni raccolte sono specificati nella privacy policy di Google.
+Luogo del trattamento: Irlanda –Privacy Policy.
+
+Live Chat
+
+I servizi terzi di live chat permettono di contattare un operatore del sito web per richieste di informazione, mentre il visitatore è presente sul sito web stesso.
+Questi servizi possono raccogliere informazioni sulle informazioni di contatto relativi ai messaggi inviati.
+
+
+Social Network
+
+Questa funzionalità permette ai Visitatori di interagire con i principali social network all’interno del sito web tramite i profili social del Visitatore.
+Le informazioni raccolte: Id utente, nome utente, immagine profilo, genere utente, lingua dell’utente, lista degli amici e/o follower dell’utente, ed in generale tutte le informazioni che l’utente possa aver inserito all’interno del proprio profilo.
+
+Pulsante “Like” di Facebook
+
+Il pulsante “Like” è fornito da Facebook, Inc, e permette di mettere mi piace alla pagina Facebook relativa a questo sito web.
+Informazioni richieste: Cookie e informazioni utilizzate.
+Luogo del trattamento: Stati Uniti d’America –Privacy Policy.
+
+LinkedIn
+
+Il pulsante Linkedin è fornito da LinkedIn Corporation.
+Informazioni richieste: Cookie e informazioni utilizzate.
+Luogo del trattamento: Stati Uniti d’America –Privacy Policy.
+
+TikTok
+
+Tiktok è un social network che permette il caricamento e la visualizzazione di video creati dagli utenti.
+Le informazioni raccolte sono specificate nella privacy policy di TikTok.
+Luogo del trattamento: Consulta la privacy policy di TikTok –Privacy Policy.
+
+Geolocalizzazione e posizione
+Geolocalizzazione non continua
+
+Il sito web e alcuni servizi terzi di tracciamento possono condividere informazioni di posizionamento del visitatore con la finalità di fornire servizi personalizzati.
+Il sito web può accedere a informazioni relative al posizionamento qualora il visitatore non abbia negato il tracciamento della sua posizione tramite browser o i suoi dispositivi.
+
+Informazioni richieste: posizione geografica.
+
+Anti Spam
+
+Questi servizi terzi hanno lo scopo di preservare il sito web da attività di Spam.
+
+Google reCAPTCHA
+
+Google reCAPTCHA è un servizio di protezione dallo SPAM fornito da Google Ireland Limited.
+Il sistema reCAPTCHA è soggetto alla privacy policy e ai termini di utilizzo di Google.
+Informazioni richieste: Cookie e informazioni di utilizzo.
+Luogo del trattamento: Irlanda – Privacy Policy.
+
+Registrazione e accesso
+
+I servizi con registrazione e autenticazione permettono al visitatore di avere un proprio profilo all’interno del sito web.
+
+Facebook Login (Facebook, Inc.)
+
+Facebook Login è una funzionalità di autenticazione basata sulle credenziali di accesso di Facebook, Inc.
+E' possibile trovare le informazioni utilizzate da questa funzionalità nella privacy policy di Facebook.
+Luogo del trattamento: Stati Uniti d’America –Privacy Policy.
+
+Statistiche
+
+I servizi di statistica permettono al titolare di monitorare l’andamento del sito web e il comportamento dei visitatori.
+
+Flazio Stats
+
+Flazio fornisce un servizio di statistiche che analizza e mostra le informazioni personali dei visitatori che visitano i siti web.
+Informazioni richieste: Cookie e informazioni di utilizzo.
+Luogo del trattamento: Irlanda –Privacy Policy Opt Out.
+
+Trasferimento di informazioni dalla UE e/o dalla Svizzera verso gli Stati Uniti sulla base del Privacy Shield
+
+Quando questa è la base giuridica, il trasferimento di informazioni Personali dalla UE o dalla Svizzera verso gli Stati Uniti avviene in base all'accordo Privacy Shield UE – USA o Svizzera – USA.
+In particolare, le informazioni Personali vengono trasferite a soggetti che si sono autocertificati nel quadro del Privacy Shield e garantiscono pertanto un adeguato livello di protezione delle informazioni trasferite. I servizi interessati dal trasferimento di informazioni sono elencati nelle rispettive sezioni di questo documento. Tra essi, quelli che aderiscono al Privacy Shield possono essere individuati consultando la relativa privacy policy o verificando lo status della loro iscrizione nella lista ufficiale del Privacy Shield.
+I diritti dei visitatori ai sensi del Privacy Shield sono descritti in forma sempre aggiornata sul sito internet del Dipartimento del Commercio degli Stati Uniti.
+
+Contenuti ed elementi grafici
+
+Questi servizi permettono di mostrare alcuni elementi grafici o contenutistici di terze parti direttamente sul sito web.
+Le informazioni raccolte sono specificati nella privacy policy del servizio terzo titolare dell’applicazione in uso ospitata su questo sito.
+
+Google Fonts
+
+Google Fonts è un font testuale gestito da Google Ireland Limited.
+Informazioni richieste: sono specificate nella privacy policy del Social Network titolare dell’applicazione in uso ospitata su questo sito.
+Luogo del trattamento: Stati Uniti d’America – Privacy Policy.
+
+Componente Instagram
+
+Instagram permette la visualizzazione dei post immagine e video contenuti su Instagram, Inc.
+Informazioni richieste: Cookie e informazioni di utilizzo.
+Luogo del trattamento: Stati Uniti d’America –Privacy Policy.
+
+Profilazione Visitatore
+
+Le informazioni fornite dal visitatore potrebbero essere impiegate dal titolare del trattamento per poter creare un profilo visitatore, per monitorare le preferenze e il comportamento del visitatore.
+
+Queste operazioni possono essere utilizzate grazie a strumenti automatici che monitorano le attività del visitatore per poter tracciare un profilo del visitatore.
+Per poter rifiutare la profilazione il visitatore può contattare direttamente il Titolare del trattamento per far valere i propri diritti.
+
+Vendita online
+
+Nei processi di vendita online, il processo di acquisto ed il processo di spedizione e consegna, il proprietario del Sito Web potrà fare uso delle informazioni personali del visitatore. Le informazioni fornite dal visitatore sono utilizzati per personalizzare la procedura di acquisto, il pagamento tramite modalità elettroniche e spedizioni.
+
+Diritti del Visitatore
+
+I visitatori hanno alcuni diritti che possono esercitare in merito all’utilizzo delle sue informazioni.
+I diritti del visitatore sono:
+- Richiedere un reclamo sull’utilizzo delle informazioni.
+- Richiedere il trasferimento delle proprie informazioni;
+- Richiedere un utilizzo limitato al trattamento delle informazioni;
+- Revocare il consenso;
+- Richiedere una modifica alle informazioni indicate.
+- Rifiutare il trattamento delle informazioni;
+- Richiedere la cancellazione delle informazioni;
+- Richiedere l’accesso alle proprie informazioni;
+
+Diritto di opposizione
+
+I visitatori possono opporsi al trattamento in riferimento all’utilizzo delle informazioni per interesse pubblico o nell’esercizio di poteri pubblici del titolare.
+I visitatori possono opporsi anche in caso di trattamento delle informazioni con finalità di marketing.
+
+Esercitare i diritti del visitatore
+
+Per poter far valere i propri diritti, il visitatore può contattare direttamente il Titolare del trattamento delle informazioni gestite in questo sito web.
+
+
+Informazioni per la vendita
+Attività di e-commerce
+
+Nei processi di vendita online, il processo di acquisto ed il processo di spedizione e consegna, il proprietario del Sito Web potrà fare uso delle informazioni personali del visitatore.
+Al fine di completare l’acquisto, i visitatori del sito dovranno procedere al pagamento, che potrà essere gestito da Gateway di pagamento terzi. Alcune delle informazioni necessarie al pagamento potrebbero essere a titolo di esempio non esaustivo: carte di credito, numero di conto, scadenza, CVC, ed altri.
+
+Ulteriori informazioni sul trattamento
+
+
+
+Utilizzo delle informazioni in giudizio
+
+Il Titolare del Trattamento se citato in giudizio sarà legittimato dal visitatore ad utilizzare le informazioni del visitatore, e le informazioni sull’uso che lo stesso ha fatto dei servizi.
+Qualora il Titolare del trattamento dovesse ricevere richiesta dalle istituzioni pubbliche o da pubbliche autorità (Polizia, Carabinieri), sarà legittimato ad inoltrare tutte le informazioni richieste dalle stesse.
+
+File di Log
+
+Al fine di migliorare i servizi offerti, eseguire la risoluzione di problemi e di analizzare l’utilizzo che viene fatto dei medesimi servizi, questo sito web potrebbe eseguire la registrazione sequenziale e cronologica delle operazioni effettuate da un visitatore, un amministratore o in forma manuale o automatizzata, man mano che vengono eseguite. Tali registrazioni possono essere memorizzate ed eventualmente accedute in fase di analisi delle informazioni, detto anche registro eventi.
+
+Diritto dei visitatori del sito (Visitatori)
+
+I visitatori hanno diritto di cancellare, trasferire, sospendere e correggere le proprie informazioni Personali, inoltre i visitatori hanno diritto ad avere una copia comprensibile e intellegibile delle proprie informazioni personali. Il Titolare del sito dovrà avere adeguati strumenti per espletare tali richieste. Tutte le richieste vanno inviate al Titolare del Trattamento e/o al DPO.
+
+
+Per qualsiasi richiesta sul trattamento delle informazioni su sportandservices@libero.it
+
+Do Not Track
+
+Questo sito web non supporta le richieste “Do Not Track”. Per conoscere se gli eventuali servizi di terze parti utilizzati le supportano, consulta le loro privacy policy.
+
+Per qualsiasi richiesta sul trattamento delle informazioni su sportandservices@libero.it csainpadelclubcup.it scrivici a sportandservices@libero.it sportandservices@libero.it.
+
+
+Successivi aggiornamenti Privacy Policy
+
+Il Titolare del trattamento potrà aggiornare la presente privacy policy in qualsiasi momento. I visitatori potranno restare aggiornati sulle modifiche fatte a questa Privacy Policy consultando questa pagina che riporta il medesimo nome e che resterà pubblica al fine di essere comodamente consultata. In qualsiasi momento e/o in seguito a una modifica di questa Privacy Policy, il visitatore può richiedere la distruzione e la cancellazione di qualsiasi informazione personale che lo riguardi, ed in questo caso ciò potrebbe comportare la cessazione di parte e/o di tutte le funzionalità offerte al visitatore dal questo sito web.
+
+Definizioni
+
+
+Il responsabile del trattamento (“data processor”) nel GDPR è definito all’art. 4, par. 1, n. 8) come “la persona fisica, giuridica, PA o ente che elabora le informazioni personali per conto del titolare del trattamento”.
+
+Titolare del Trattamento (Proprietario del sito)
+
+Il Titolare del trattamento (data controller) è "la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali" (art. 4. par. 1, n. 7 GDPR). In sostanza il titolare è colui che tratta le informazioni senza ricevere istruzioni da altri, colui che decide "perché" e "come" devono essere trattati le informazioni.
+
+Sito web
+
+È un insieme di pagine web correlate, ovvero una struttura ipertestuale di documenti che possono raccogliere informazioni personali riguardanti i loro visitatori.
+
+Cookie
+
+Tipo particolare di informazioni (metadati) che possono essere utili ad identificare il visitatore e vengono utilizzati dalle applicazioni web lato server per archiviare e recuperare informazioni a lungo termine sul lato client.
+
+Riferimenti legali
+
+Questa privacy policy è stata elaborata conformemente al Regolamento dell’Unione Europea 2016/679, nonché alle leggi italiane e ai principi giuridici generali dell’ordinamento comunitario e delle prassi commerciali prevalenti a livello internazionale.
+
+Contatti
+
+Per qualsiasi domande riguardante la presente Informativa sulla Privacy, si prega di contattarci all'indirizzo sportandservices@libero.it.
+
+
+Informazioni dell'ultima revisione: 25/04/2026
