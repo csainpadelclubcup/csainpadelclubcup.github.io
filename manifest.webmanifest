@@ -4,7 +4,7 @@
   "description": "App ufficiale della CSAIN Padel Club Cup 2027 - Prima Edizione e della CSAIN Padel Winter Cup 2027: iscrizione, referto di gara e lista partita.",
   "lang": "it",
   "id": "./app.html",
-  "start_url": "./app.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
