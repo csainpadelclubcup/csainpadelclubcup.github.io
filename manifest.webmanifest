@@ -1,0 +1,23 @@
+{
+  "name": "CSAIN Padel Club Cup 2027",
+  "short_name": "Club Cup",
+  "description": "App ufficiale della CSAIN Padel Club Cup 2027 - Prima Edizione e della CSAIN Padel Winter Cup 2027: iscrizione, referto di gara e lista partita.",
+  "lang": "it",
+  "id": "./app.html",
+  "start_url": "./app.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B2545",
+  "theme_color": "#0B2545",
+  "icons": [
+    { "src": "app/icona-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "app/icona-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "app/icona-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Iscriviti", "url": "./app.html#iscriviti", "icons": [{ "src": "app/icona-192.png", "sizes": "192x192" }] },
+    { "name": "Compila referto", "url": "./app.html#referto", "icons": [{ "src": "app/icona-192.png", "sizes": "192x192" }] },
+    { "name": "Compila lista partita", "url": "./app.html#lista", "icons": [{ "src": "app/icona-192.png", "sizes": "192x192" }] }
+  ]
+}

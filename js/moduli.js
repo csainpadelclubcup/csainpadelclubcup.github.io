@@ -113,3 +113,10 @@ window.CSAIN_INVIO_URL = window.CSAIN_INVIO_URL || 'https://script.google.com/ma
       .catch(function () { toastMsg('Invio non riuscito: controlla la connessione e riprova'); });
   };
 })();
+
+// App installata: pulsante "Menu app" e service worker (vedi js/app.js)
+(function () {
+  var s = document.createElement('script');
+  s.src = (document.currentScript && document.currentScript.src ? new URL('app.js', document.currentScript.src).href : '../js/app.js');
+  document.head.appendChild(s);
+})();

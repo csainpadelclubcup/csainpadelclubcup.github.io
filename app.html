@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>App CSAIN Padel Club Cup 2027</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="App ufficiale della CSAIN Padel Club Cup 2027 - Prima Edizione: iscriviti, compila il referto, compila la lista partita.">
+<meta name="theme-color" content="#0B2545">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="img/logo-csain-padel.png">
+<link rel="apple-touch-icon" href="app/icona-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Club Cup">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="fonts/fonts.css">
+<style>
+*{box-sizing:border-box}
+[hidden]{display:none !important}
+html,body{margin:0;background:#FFFFFF}
+body{font-family:'Barlow',system-ui,sans-serif;color:#0B2545;font-size:17px;line-height:1.5;-webkit-tap-highlight-color:transparent;min-height:100vh;display:flex;flex-direction:column}
+a{color:#0B2545}
+.wrap{max-width:640px;margin:0 auto;padding:0 20px;width:100%}
+header{background:#FFFFFF;border-bottom:1px solid #E3E8EE;padding-top:env(safe-area-inset-top)}
+header .wrap{display:flex;align-items:center;gap:12px;padding-top:10px;padding-bottom:10px}
+header img{width:64px;height:64px;object-fit:contain;flex:none;display:block}
+.site-title{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:22px;letter-spacing:.04em;line-height:1}
+.site-title small{display:block;font-family:'Barlow',sans-serif;font-weight:600;font-size:12px;letter-spacing:.14em;color:#3A6B1F;margin-top:5px}
+.hero{background:#0B2545;color:#FFFFFF;border-radius:0 0 28px 28px;padding:30px 0 34px}
+.eb{margin:0 0 10px;font-weight:600;font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:#D4F04A}
+h1{margin:0;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:clamp(40px,11vw,60px);line-height:.95;text-transform:uppercase}
+.hero p.sub{margin:12px 0 0;color:#C9D4E2;font-size:16px}
+main{flex:1;padding:24px 0 40px}
+.view[hidden]{display:none}
+.tiles{display:grid;gap:14px}
+.tile{display:flex;align-items:center;gap:16px;width:100%;text-align:left;font:inherit;color:#0B2545;background:#FFFFFF;border:1px solid #D5DDE6;border-radius:20px;padding:18px 18px;cursor:pointer;text-decoration:none;transition:border-color .15s,box-shadow .15s,transform .15s}
+.tile:hover,.tile:focus-visible{border-color:#0B2545;box-shadow:0 10px 28px rgba(11,37,69,.12);outline:none}
+.tile:active{transform:scale(.98)}
+.num{flex:none;width:58px;height:58px;border-radius:16px;background:#0B2545;color:#D4F04A;display:flex;align-items:center;justify-content:center}
+.tile.main .num{background:#D4F04A;color:#0B2545}
+.tile b{display:block;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:28px;line-height:1;text-transform:uppercase}
+.tile span.d{display:block;color:#4F6177;font-size:15px;margin-top:5px;line-height:1.35}
+.tile .arr{margin-left:auto;flex:none;color:#0B2545}
+.back{display:inline-flex;align-items:center;gap:6px;font:inherit;font-weight:600;font-size:16px;color:#0B2545;background:none;border:none;padding:6px 0;margin:0 0 14px;cursor:pointer}
+h2{margin:0 0 8px;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:clamp(34px,9vw,48px);line-height:1;text-transform:uppercase}
+.lbl{margin:0 0 8px;font-weight:600;font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:#3A6B1F}
+.txt{margin:0 0 20px;color:#3F5168}
+.info{background:#F3F6F9;border-radius:20px;padding:18px 20px;margin:0 0 20px}
+.info p{margin:0 0 6px}.info p:last-child{margin:0}
+.btn{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:56px;padding:16px 28px;border-radius:999px;background:#0B2545;color:#FFFFFF;text-decoration:none;font-weight:600;font-size:17px;border:none;font-family:inherit;cursor:pointer}
+.btn.lime{background:#D4F04A;color:#0B2545}
+.btn.ghost{background:#FFFFFF;color:#0B2545;border:1.5px solid #0B2545}
+.inst{margin-top:28px;border:1px solid #D5DDE6;border-radius:20px;padding:20px}
+.inst h3{margin:0 0 6px;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:26px;text-transform:uppercase;line-height:1}
+.inst p{margin:0 0 12px;color:#3F5168;font-size:16px}
+.inst ol{margin:0;padding-left:20px;color:#3F5168;font-size:16px}
+.inst li{margin:0 0 4px}
+footer{background:#0B2545;color:#C9D4E2;font-size:14px;padding:22px 0 calc(22px + env(safe-area-inset-bottom))}
+footer a{color:#FFFFFF;font-weight:600}
+footer p{margin:0 0 6px}
+</style>
+<script src="js/app.js"></script>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <img src="img/logo-csain-padel.png" alt="CSAIN Lazio">
+    <div class="site-title">CSAIN PADEL CLUB CUP<small>2027 · Prima Edizione</small></div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <p class="eb">App ufficiale</p>
+    <h1>Cosa vuoi fare?</h1>
+    <p class="sub">CSAIN Padel Club Cup 2027 e CSAIN Padel Winter Cup 2027</p>
+  </div>
+</section>
+
+<main>
+  <div class="wrap">
+
+    <!-- MENU -->
+    <div class="view" id="v-menu">
+      <div class="tiles">
+        <button class="tile main" type="button" data-go="iscriviti">
+          <span class="num"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg></span>
+          <span><b>Iscriviti</b><span class="d">Iscrivi il tuo Club alla Club Cup 2027</span></span>
+          <svg class="arr" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+        <button class="tile" type="button" data-go="referto">
+          <span class="num"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4h6a1 1 0 0 1 1 1v1H8V5a1 1 0 0 1 1-1z"/><path d="M16 5h2a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h2"/><path d="M8 12l2.5 2.5L16 9"/></svg></span>
+          <span><b>Compila referto</b><span class="d">Il referto di gara a fine incontro</span></span>
+          <svg class="arr" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+        <button class="tile" type="button" data-go="lista">
+          <span class="num"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11"/><circle cx="4.5" cy="6" r="1.3"/><circle cx="4.5" cy="12" r="1.3"/><circle cx="4.5" cy="18" r="1.3"/></svg></span>
+          <span><b>Compila lista partita</b><span class="d">La formazione da consegnare prima dell’incontro</span></span>
+          <svg class="arr" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+      </div>
+
+      <div class="inst" id="inst" hidden>
+        <h3>Installa l’app</h3>
+        <p>Mettila sulla schermata Home del telefono: si apre come un’app, senza passare dagli store.</p>
+        <button class="btn lime" type="button" id="inst-btn" hidden>Installa sul telefono</button>
+        <ol id="inst-ios" hidden>
+          <li>Tocca il pulsante <b>Condividi</b> di Safari (il quadrato con la freccia in su).</li>
+          <li>Scegli <b>Aggiungi alla schermata Home</b>.</li>
+          <li>Tocca <b>Aggiungi</b>.</li>
+        </ol>
+        <ol id="inst-and" hidden>
+          <li>Apri il menu del browser (i tre puntini in alto a destra).</li>
+          <li>Scegli <b>Installa app</b> oppure <b>Aggiungi a schermata Home</b>.</li>
+        </ol>
+      </div>
+    </div>
+
+    <!-- ISCRIVITI -->
+    <div class="view" id="v-iscriviti" hidden>
+      <button class="back" type="button" data-go="menu"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>Menu</button>
+      <p class="lbl">Iscrizioni</p>
+      <h2>Iscriviti</h2>
+      <p class="txt">Un modulo per ogni squadra, da compilare online e inviare a <a href="mailto:iscrizioni@csainpadelclubcup.it">iscrizioni@csainpadelclubcup.it</a>.</p>
+      <div class="info">
+        <p><b>Iscrizioni aperte dal 15 novembre 2026 al 18 marzo 2027.</b></p>
+        <p>I Club iscritti entro il 31 gennaio 2027 partecipano automaticamente anche alla CSAIN Padel Winter Cup 2027: non serve un’iscrizione separata.</p>
+      </div>
+      <a class="btn lime" href="moduli/Modulo_Iscrizione_Club_Cup_2027.html">Compila il modulo d’iscrizione</a>
+    </div>
+
+    <!-- REFERTO -->
+    <div class="view" id="v-referto" hidden>
+      <button class="back" type="button" data-go="menu"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>Menu</button>
+      <p class="lbl">Referto di gara</p>
+      <h2>Compila referto</h2>
+      <p class="txt">Scegli il torneo dell’incontro che hai giocato.</p>
+      <div class="tiles">
+        <a class="tile" href="moduli/Referto_Gara_Winter_Cup_2027.html">
+          <span class="num"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M12 2v20M4.9 6.5l14.2 11M19.1 6.5L4.9 17.5"/></svg></span>
+          <span><b>Winter Cup 2027</b><span class="d">Torneo d’apertura</span></span>
+          <svg class="arr" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </a>
+        <a class="tile" href="moduli/Referto_Gara_Club_Cup_2027.html">
+          <span class="num"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg></span>
+          <span><b>Club Cup 2027</b><span class="d">Gironi e Master</span></span>
+          <svg class="arr" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- LISTA PARTITA -->
+    <div class="view" id="v-lista" hidden>
+      <button class="back" type="button" data-go="menu"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>Menu</button>
+      <p class="lbl">Lista partita</p>
+      <h2>Compila lista partita</h2>
+      <p class="txt">Scegli il torneo dell’incontro che stai per giocare.</p>
+      <div class="tiles">
+        <a class="tile" href="moduli/Lista_Partita_Winter_Cup_2027.html">
+          <span class="num"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M12 2v20M4.9 6.5l14.2 11M19.1 6.5L4.9 17.5"/></svg></span>
+          <span><b>Winter Cup 2027</b><span class="d">Torneo d’apertura</span></span>
+          <svg class="arr" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </a>
+        <a class="tile" href="moduli/Lista_Partita_Club_Cup_2027.html">
+          <span class="num"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg></span>
+          <span><b>Club Cup 2027</b><span class="d">Gironi e Master</span></span>
+          <svg class="arr" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Organizza l’A.S.D. Sport &amp; Services (Padel) in collaborazione con CSAIN Lazio.</p>
+    <p><a href="index.html">Vai al sito completo</a> · <a href="mailto:info@csainpadelclubcup.it">info@csainpadelclubcup.it</a></p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var views=['menu','iscriviti','referto','lista'];
+  function show(){
+    var h=(location.hash||'').replace('#','');
+    if(views.indexOf(h)<0)h='menu';
+    views.forEach(function(v){document.getElementById('v-'+v).hidden=(v!==h);});
+    document.querySelector('.hero').hidden=(h!=='menu');
+    window.scrollTo(0,0);
+  }
+  document.addEventListener('click',function(e){
+    var b=e.target.closest('[data-go]'); if(!b)return;
+    var g=b.getAttribute('data-go');
+    if(g==='menu'){ if(history.length>1&&location.hash){history.back();} else {location.hash='';} }
+    else location.hash=g;
+  });
+  addEventListener('hashchange',show); show();
+
+  // Riquadro "Installa l'app": solo nel browser, non dentro l'app già installata
+  var inApp=(window.matchMedia&&matchMedia('(display-mode: standalone)').matches)||navigator.standalone===true;
+  if(inApp)return;
+  var box=document.getElementById('inst'), btn=document.getElementById('inst-btn'), evt=null;
+  var ios=/iphone|ipad|ipod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+  box.hidden=false;
+  if(ios)document.getElementById('inst-ios').hidden=false;
+  else document.getElementById('inst-and').hidden=false;
+  addEventListener('beforeinstallprompt',function(e){
+    e.preventDefault(); evt=e; btn.hidden=false; document.getElementById('inst-and').hidden=true;
+  });
+  btn.addEventListener('click',function(){ if(!evt)return; evt.prompt(); evt.userChoice.then(function(){evt=null;btn.hidden=true;}); });
+  addEventListener('appinstalled',function(){box.hidden=true;});
+})();
+</script>
+</body>
+</html>
