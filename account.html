@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Accedi o registrati — CSAIN Padel Club Cup</title>
+<link rel="icon" href="img/logo-csain-padel.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="app/icona-180.png">
+<meta name="theme-color" content="#0B2545">
+<script src="js/app.js"></script>
+<script src="js/auth.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="fonts/fonts.css">
+<style>
+body{margin:0;background:#FFFFFF}
+a{color:#0B2545}a:hover{color:#13406E}
+.dd-menu{display:none}.dd:hover .dd-menu,.dd:focus-within .dd-menu{display:block}.dd-menu a:hover{background:#F3F6F9}
+.nav-burger{display:none}.nav-mobile{display:none}
+@media (max-width: 1100px){.nav-desk{display:none}.nav-burger{display:inline-flex}.nav-mobile{display:block}}
+@media (max-width: 1100px), (hover: none) and (pointer: coarse){.nav-desk{display:none !important}.nav-burger{display:inline-flex !important}.nav-mobile{display:block}}
+@media (max-width: 600px){
+.site-logo{width:50px !important;height:50px !important}
+span.site-title.site-title{font-size:16px !important;letter-spacing:0.02em !important;white-space:nowrap}.site-title br{display:none}
+nav[aria-label="Principale"]{padding:8px 26px 8px 16px !important;gap:10px !important}.site-root{overflow-x:hidden}
+nav[aria-label="Principale"]>a{gap:10px !important;min-width:0;flex:1 1 auto}
+.nav-burger{width:42px !important;height:42px !important}
+.nav-mobile ul{padding:4px 16px 16px !important;font-size:15px !important}
+.nav-mobile a{min-height:44px !important}
+.site-root{font-size:15.5px !important}
+h1{font-size:36px !important}
+h2{font-size:30px !important}
+h3{font-size:20px !important}
+[style*="font-size: clamp"]:not(h1):not(h2){font-size:30px !important}
+[style*="font-size: 44px"],[style*="font-size: 38px"]{font-size:30px !important}
+[style*="font-size: 34px"],[style*="font-size: 32px"],[style*="font-size: 30px"],[style*="font-size: 28px"]{font-size:24px !important}
+[style*="font-size: 26px"],[style*="font-size: 22px"]{font-size:19px !important}
+[style*="font-size: 20px"],[style*="font-size: 19px"],[style*="font-size: 18px"]{font-size:16.5px !important}
+[style*="font-size: 17px"],[style*="font-size: 16px"]{font-size:15px !important}
+[style*="font-size: 15px"]{font-size:14px !important}
+[style*="font-size: 14px"]{font-size:13px !important}
+section[style*="padding:"],footer>div{padding-left:16px !important;padding-right:16px !important}
+section[style*="padding: 96px"],section[style*="padding: 88px"],section[style*="padding: 72px"],section[style*="padding: 64px"],section[style*="padding: 56px"]{padding-top:44px !important}
+section[style*="88px"]{padding-bottom:52px !important}
+[style*="padding: 32px"],[style*="padding: 28px"]{padding:20px !important}
+[style*="padding: 22px 26px"]{padding:18px 18px !important}
+[style*="padding: 16px 28px"]{padding:13px 20px !important}
+[style*="width: 120px"][style*="height: 120px"]{width:88px !important;height:88px !important}
+details{padding:14px 0 !important}
+summary{font-size:16.5px !important}
+}
+@media (max-width: 370px){span.site-title.site-title{font-size:14px !important}.site-logo{width:44px !important;height:44px !important}}
+.legal h2{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:28px;text-transform:uppercase;color:#0B2545;margin:40px 0 12px}.legal ul{padding-left:22px}.legal li{margin:6px 0}.legal p{margin:0 0 14px}
+
+.wrapx{max-width:1240px;margin:0 auto;padding:0 24px}
+.eb{margin:0 0 14px;font-weight:600;font-size:14px;letter-spacing:.14em;text-transform:uppercase;color:#3A6B1F}
+.h1x{margin:0;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:clamp(44px,6vw,84px);line-height:.95;text-transform:uppercase}
+.h2x{margin:0 0 12px;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:clamp(28px,3vw,40px);line-height:1;text-transform:uppercase}
+.lead{margin:18px 0 0;max-width:680px;font-size:19px;color:#3F5168}
+.box{border:1px solid #D5DDE6;border-radius:20px;padding:clamp(22px,4vw,36px);box-sizing:border-box;background:#fff;max-width:620px}
+.fld{display:flex;flex-direction:column;gap:6px;font-weight:600;font-size:15px;margin:0 0 14px}
+.fld input{font:inherit;font-weight:400;font-size:17px;padding:12px 14px;min-height:48px;box-sizing:border-box;border:1px solid #B8C4D2;border-radius:10px;background:#fff;color:#0B2545;width:100%}
+.chk{display:flex;gap:10px;align-items:flex-start;font-size:15px;margin:0 0 12px;line-height:1.45}
+.chk input{width:22px;height:22px;flex:none;margin-top:1px}
+.bt{font:inherit;font-weight:600;font-size:17px;line-height:1;background:#0B2545;color:#fff;border:none;padding:0 28px;height:50px;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;white-space:nowrap;border-radius:999px;cursor:pointer;text-decoration:none}
+.bt:hover{background:#D4F04A;color:#0B2545}
+.bt[disabled]{opacity:.6;cursor:default}
+.bt.ghost{background:#fff;color:#0B2545;border:1px solid #0B2545}
+.tabs{display:flex;gap:8px;margin:0 0 22px;flex-wrap:wrap}
+.tabs button{font:inherit;font-weight:700;font-size:16px;padding:10px 22px;border-radius:999px;border:1px solid #0B2545;background:#fff;color:#0B2545;cursor:pointer}
+.tabs button.on{background:#0B2545;color:#fff}
+.msg{margin:4px 0 14px;font-weight:600}.msg.err{color:#A3241B}.msg.ok{color:#2F6B12}
+.small{font-size:14px;color:#4F6177}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:0 16px}
+.steps{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:14px;max-width:900px}
+.steps li{background:#F3F6F9;border-radius:20px;padding:18px 20px}
+.steps b{display:block;font-family:'Barlow Condensed',sans-serif;font-size:22px;text-transform:uppercase;margin-bottom:4px}
+.sez{border-top:4px solid #D4F04A;padding-top:12px}
+
+</style>
+</head>
+<body>
+<div class="site-root" style="font-family: 'Barlow', system-ui, sans-serif; color: #0B2545; background: #FFFFFF; width: 100%; font-size: 17px; line-height: 1.55">
+<header style="background: #FFFFFF; border-bottom: 1px solid #E3E8EE; position: relative; z-index: 30">
+<nav aria-label="Principale" style="max-width: 1240px; margin: 0 auto; padding: 10px 24px; display: flex; align-items: center; justify-content: space-between; gap: 16px">
+<a href="index.html" style="display: flex; align-items: center; gap: 14px; color: #0B2545; text-decoration: none">
+<img class="site-logo" src="img/logo-csain-padel.png" alt="CSAIN Lazio" style="width: 112px; height: 112px; object-fit: contain; display: block; flex: none">
+<span class="site-title" style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 22px; letter-spacing: 0.04em; line-height: 1">CSAIN PADEL <br>CLUB CUP</span>
+</a>
+<ul class="nav-desk" style="list-style: none; margin: 0; padding: 0; display: flex; align-items: center; font-weight: 600; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase">
+<li><a href="index.html" style="color: #0B2545; text-decoration: none; padding: 14px 0; display: inline-flex; align-items: center; gap: 6px">Home</a></li>
+<li aria-hidden="true" style="width: 5px; height: 5px; border-radius: 50%; background: #0B2545; margin: 0 16px"></li>
+<li class="dd" style="position: relative"><a href="club-cup.html" style="color: #0B2545; text-decoration: none; padding: 14px 0; display: inline-flex; align-items: center; gap: 6px">Padel Club Cup<svg aria-hidden="true" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg></a>
+<ul class="dd-menu" style="position: absolute; top: 100%; left: -18px; z-index: 40; min-width: 240px; list-style: none; margin: 0; padding: 8px 0; background: #FFFFFF; border: 1px solid #E3E8EE; border-radius: 8px; box-shadow: 0 12px 30px rgba(11,37,69,0.15); text-transform: none; letter-spacing: 0; font-weight: 500; font-size: 15px">
+<li><a href="calendari.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Calendari</a></li>
+<li><a href="risultati.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Risultati e classifiche</a></li>
+<li><a href="modulistica.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Modulistica</a></li>
+<li><a href="media.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Media</a></li>
+<li><a href="club-dell-anno.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none; font-weight: 700">Club dell'Anno</a></li>
+</ul>
+</li>
+<li aria-hidden="true" style="width: 5px; height: 5px; border-radius: 50%; background: #0B2545; margin: 0 16px"></li>
+<li class="dd" style="position: relative"><a href="winter-cup.html" style="color: #0B2545; text-decoration: none; padding: 14px 0; display: inline-flex; align-items: center; gap: 6px">Winter Cup<svg aria-hidden="true" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg></a>
+<ul class="dd-menu" style="position: absolute; top: 100%; left: -18px; z-index: 40; min-width: 240px; list-style: none; margin: 0; padding: 8px 0; background: #FFFFFF; border: 1px solid #E3E8EE; border-radius: 8px; box-shadow: 0 12px 30px rgba(11,37,69,0.15); text-transform: none; letter-spacing: 0; font-weight: 500; font-size: 15px">
+<li><a href="calendari.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Calendari</a></li>
+<li><a href="risultati.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Risultati e classifiche</a></li>
+<li><a href="modulistica.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Modulistica</a></li>
+<li><a href="media.html" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Media</a></li>
+</ul>
+</li>
+<li aria-hidden="true" style="width: 5px; height: 5px; border-radius: 50%; background: #0B2545; margin: 0 16px"></li>
+<li><a href="elite-network.html" style="color: #0B2545; text-decoration: none; padding: 14px 0; display: inline-flex; align-items: center; gap: 6px">Circuito Elite Network</a></li>
+<li aria-hidden="true" style="width: 5px; height: 5px; border-radius: 50%; background: #0B2545; margin: 0 16px"></li>
+<li class="dd" style="position: relative"><a href="https://www.csain.it/" style="color: #0B2545; text-decoration: none; padding: 14px 0; display: inline-flex; align-items: center; gap: 6px">CSAIN<svg aria-hidden="true" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"></path></svg></a>
+<ul class="dd-menu" style="position: absolute; top: 100%; left: -18px; z-index: 40; min-width: 240px; list-style: none; margin: 0; padding: 8px 0; background: #FFFFFF; border: 1px solid #E3E8EE; border-radius: 8px; box-shadow: 0 12px 30px rgba(11,37,69,0.15); text-transform: none; letter-spacing: 0; font-weight: 500; font-size: 15px">
+<li><a href="https://www.csain.it/" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">CSAIN nazionale</a></li>
+<li><a href="https://www.csainlazio.it" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">CSAIN Lazio</a></li>
+<li><a href="https://www.csainlazio.it/affiliazione/" style="display: block; padding: 10px 18px; color: #0B2545; text-decoration: none">Affiliazione</a></li>
+</ul>
+</li>
+<li aria-hidden="true" style="width: 5px; height: 5px; border-radius: 50%; background: #0B2545; margin: 0 16px"></li>
+<li><a href="contatti.html" style="color: #0B2545; text-decoration: none; padding: 14px 0; display: inline-flex; align-items: center; gap: 6px">Contatti</a></li>
+<li aria-hidden="true" style="width: 5px; height: 5px; border-radius: 50%; background: #0B2545; margin: 0 16px"></li>
+<li><a href="account.html" class="nav-acc" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 999px; background: #0B2545; color: #FFFFFF; text-decoration: none; text-transform: none; letter-spacing: 0.02em; white-space: nowrap; font-size: 12.5px; line-height: 1.2">Accedi · Registrati</a></li>
+</ul>
+<button type="button" class="nav-burger" aria-label="Apri il menu" aria-expanded="false" data-menu-toggle style="width: 48px; height: 48px; align-items: center; justify-content: center; background: #FFFFFF; border: 1px solid #D5DDE6; border-radius: 10px; color: #0B2545; cursor: pointer; flex: none"><svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"></path></svg></button>
+</nav>
+<div class="mobile-menu" hidden>
+<div class="nav-mobile" style="border-top: 1px solid #E3E8EE; background: #FFFFFF">
+<ul style="list-style: none; margin: 0; padding: 4px 24px 20px; font-size: 16px">
+<li><a href="index.html" style="display: flex; align-items: center; min-height: 52px; border-bottom: 1px solid #EEF2F6; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; color: #0B2545">Home</a></li>
+<li><a href="club-cup.html" style="display: flex; align-items: center; min-height: 52px; border-bottom: 1px solid #EEF2F6; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; color: #0B2545">Padel Club Cup</a></li>
+<li><a href="calendari.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Calendari</a></li>
+<li><a href="risultati.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Risultati e classifiche</a></li>
+<li><a href="modulistica.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Modulistica</a></li>
+<li><a href="media.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Media</a></li>
+<li><a href="club-dell-anno.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #0B2545; font-weight: 600">Club dell'Anno</a></li>
+<li><a href="winter-cup.html" style="display: flex; align-items: center; min-height: 52px; border-bottom: 1px solid #EEF2F6; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; color: #0B2545">Winter Cup</a></li>
+<li><a href="calendari.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Calendari</a></li>
+<li><a href="risultati.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Risultati e classifiche</a></li>
+<li><a href="modulistica.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Modulistica</a></li>
+<li><a href="media.html" style="display: flex; align-items: center; min-height: 48px; padding-left: 16px; border-bottom: 1px solid #EEF2F6; text-decoration: none; color: #3F5168">Media</a></li>
+<li><a href="elite-network.html" style="display: flex; align-items: center; min-height: 52px; border-bottom: 1px solid #EEF2F6; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; color: #0B2545">Circuito Elite Network</a></li>
+<li><a href="https://www.csainlazio.it" style="display: flex; align-items: center; min-height: 52px; border-bottom: 1px solid #EEF2F6; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; color: #0B2545">CSAIN Lazio</a></li>
+<li><a href="contatti.html" style="display: flex; align-items: center; min-height: 52px; border-bottom: 1px solid #EEF2F6; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; text-decoration: none; color: #0B2545">Contatti</a></li>
+<li><a href="account.html" class="nav-acc" style="display: flex; align-items: center; justify-content: center; min-height: 52px; margin-top: 14px; border-radius: 999px; background: #0B2545; color: #FFFFFF; font-weight: 700; letter-spacing: 0.04em; text-decoration: none">Accedi · Registrati</a></li>
+</ul>
+</div>
+</div>
+</header>
+<section class="wrapx" style="padding-top:64px;padding-bottom:24px">
+<p class="eb">Il tuo account</p>
+<h1 class="h1x">Accedi o registrati</h1>
+<p class="lead">Con l’account gratuito entri in tutte le pagine riservate del sito. Alcune sezioni personali richiedono anche un secondo riconoscimento con un codice via mail.</p>
+</section>
+<section class="wrapx" style="padding-bottom:24px">
+<ol class="steps">
+<li class="sez"><b>1 · Account</b>Ti registri con nome, cognome, data di nascita ed email, confermi la mail e puoi entrare in tutte le pagine riservate.</li>
+<li class="sez"><b>2 · Riconoscimento personale</b>Per le sezioni personali ti mandiamo un codice di 6 cifre alla mail indicata nella tua scheda: solo tu apri i tuoi dati.</li>
+</ol>
+</section>
+<section class="wrapx" style="padding-bottom:88px">
+<div id="vista-utente" hidden class="box">
+  <h2 class="h2x">Ciao <span id="u-nome"></span></h2>
+  <p>Sei entrato come <b id="u-email"></b>.</p>
+  <p class="small">Livello 1 attivo: puoi entrare in tutte le pagine riservate. Le sezioni personali, quando saranno disponibili, chiederanno il codice via mail.</p>
+  <div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:18px">
+    <a class="bt" href="index.html">Vai al sito</a>
+    <button class="bt ghost" type="button" onclick="esci()">Esci</button>
+  </div>
+</div>
+<div id="vista-nuova" hidden class="box">
+  <h2 class="h2x">Scegli una nuova password</h2>
+  <label class="fld">Nuova password (almeno 8 caratteri)<input id="np" type="password" autocomplete="new-password" minlength="8"></label>
+  <p id="m-np" class="msg"></p>
+  <button class="bt" type="button" onclick="salvaNuova()">Salva password</button>
+</div>
+<div id="vista-form" class="box">
+  <div class="tabs" role="tablist">
+    <button type="button" id="t-acc" class="on" onclick="tab('acc')">Accedi</button>
+    <button type="button" id="t-reg" onclick="tab('reg')">Registrati</button>
+  </div>
+  <p id="m-link" class="msg"></p>
+  <form id="f-acc" onsubmit="return accedi(event)">
+    <label class="fld">Email<input id="a-email" type="email" autocomplete="email" required></label>
+    <label class="fld">Password<input id="a-pwd" type="password" autocomplete="current-password" required></label>
+    <p id="m-acc" class="msg"></p>
+    <div style="display:flex;flex-wrap:wrap;gap:14px;align-items:center">
+      <button class="bt" type="submit" id="b-acc">Entra</button>
+      <a href="#" onclick="return recupera()" class="small">Password dimenticata?</a>
+    </div>
+  </form>
+  <form id="f-reg" hidden onsubmit="return registrati(event)">
+    <div class="two">
+      <label class="fld">Nome<input id="r-nome" autocomplete="given-name" required></label>
+      <label class="fld">Cognome<input id="r-cognome" autocomplete="family-name" required></label>
+    </div>
+    <label class="fld">Data di nascita <span class="small" style="font-weight:400">(serve per il riconoscimento personale: scrivi nome, cognome e data come sono nei tuoi documenti)</span><input id="r-nasc" type="date" autocomplete="bday" required max="2030-01-01"></label>
+    <label class="fld">Email<input id="r-email" type="email" autocomplete="email" required></label>
+    <label class="fld">Telefono <span class="small" style="font-weight:400">(facoltativo)</span><input id="r-tel" type="tel" autocomplete="tel"></label>
+    <label class="fld">Password (almeno 8 caratteri)<input id="r-pwd" type="password" autocomplete="new-password" minlength="8" required></label>
+    <label class="chk"><input id="r-privacy" type="checkbox" required><span>Ho letto l’<a href="privacy.html" target="_blank">informativa sulla privacy</a> e acconsento al trattamento dei miei dati per la gestione dell’account. <b>(obbligatorio)</b></span></label>
+    <label class="chk"><input id="r-mkt" type="checkbox"><span>Voglio ricevere via email novità sulla CSAIN Padel Club Cup e sulla Winter Cup. <span class="small">(facoltativo, puoi revocarlo quando vuoi)</span></span></label>
+    <p id="m-reg" class="msg"></p>
+    <button class="bt" type="submit" id="b-reg">Crea il mio account</button>
+  </form>
+</div>
+</section>
+<script>
+var A = CSAINAuth;
+function $(i){return document.getElementById(i)}
+function msg(id,t,ok){var e=$(id);e.textContent=t||'';e.className='msg '+(ok?'ok':'err')}
+function tab(w){$('f-acc').hidden=w!=='acc';$('f-reg').hidden=w!=='reg';$('t-acc').classList.toggle('on',w==='acc');$('t-reg').classList.toggle('on',w==='reg')}
+function prossima(){var n=new URLSearchParams(location.search).get('next');return n&&/^[a-z0-9-]+\.html$/i.test(n)?n:null}
+function mostra(){var s=A.sessione();$('vista-utente').hidden=!s;$('vista-form').hidden=!!s;if(s){$('u-email').textContent=s.email||'';$('u-nome').textContent=s.nome||''}}
+function accedi(e){e.preventDefault();var b=$('b-acc');b.disabled=true;msg('m-acc','');
+  A.accedi($('a-email').value.trim(),$('a-pwd').value).then(function(r){b.disabled=false;
+    if(!r.ok){msg('m-acc',A.errore(r));return}
+    var n=prossima(); if(n){location.href=n;return} mostra();});return false}
+function registrati(e){e.preventDefault();var b=$('b-reg');b.disabled=true;msg('m-reg','');
+  var d={nome:$('r-nome').value.trim(),cognome:$('r-cognome').value.trim(),data_nascita:$('r-nasc').value,telefono:$('r-tel').value.trim(),consenso_privacy:$('r-privacy').checked,consenso_marketing:$('r-mkt').checked,sito:'csain'};
+  A.registrati($('r-email').value.trim(),$('r-pwd').value,d).then(function(r){b.disabled=false;
+    if(!r.ok){msg('m-reg',A.errore(r));return}
+    if(r.data&&r.data.user&&r.data.user.identities&&r.data.user.identities.length===0){msg('m-reg','Esiste già un account con questa email: usa "Accedi".');return}
+    $('f-reg').reset();msg('m-reg','Fatto! Ti abbiamo inviato una email: apri il link per confermare l’account, poi potrai accedere.',true)});return false}
+function recupera(){var em=$('a-email').value.trim();if(!em){msg('m-acc','Scrivi prima la tua email qui sopra, poi clicca di nuovo su "Password dimenticata?".');return false}
+  A.recupera(em).then(function(r){msg('m-acc',r.ok?'Ti abbiamo inviato una email per scegliere una nuova password.':A.errore(r),r.ok)});return false}
+function salvaNuova(){var p=$('np').value;if(p.length<8){msg('m-np','La password deve avere almeno 8 caratteri.');return}
+  A.nuovaPassword(p).then(function(r){if(!r.ok){msg('m-np',A.errore(r));return}$('vista-nuova').hidden=true;mostra();})}
+function esci(){A.esci();mostra()}
+A.daLink().then(function(x){
+  if(x&&x.errore){msg('m-link','Il link non è più valido. Accedi oppure chiedi un nuovo link.');}
+  else if(x&&x.tipo==='recovery'){$('vista-form').hidden=true;$('vista-nuova').hidden=false;return}
+  else if(x){var n=prossima();mostra();msg('m-link','');if(n){location.href=n;return}}
+  mostra();
+  if(new URLSearchParams(location.search).get('reg')==='1') tab('reg');
+});
+</script>
+<footer style="background: #0B2545; color: #C9D6E6">
+<div style="max-width: 1240px; margin: 0 auto; padding: 56px 24px 40px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px">
+<div style="flex: 1 1 320px; min-width: 0; display: flex; gap: 16px; align-items: flex-start">
+<span style="width: 120px; height: 120px; border-radius: 50%; background: #FFFFFF; overflow: hidden; flex: none; display: inline-block; padding: 8px; box-sizing: border-box"><img src="img/logo-csain-padel.png" alt="CSAIN Lazio" style="width: 100%; height: 100%; object-fit: contain; display: block"></span>
+<div>
+<div style="font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 26px; letter-spacing: 0.04em; color: #FFFFFF">CSAIN PADEL CLUB CUP</div>
+<p style="margin: 8px 0 0; max-width: 360px">Organizzata da Sport &amp; Services (Padel) in collaborazione con CSAIN Lazio, nell'ambito del Circuito Elite Network.</p>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px">
+<div style="font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4F04A">Manifestazioni</div>
+<a href="club-cup.html" style="color: #FFFFFF">Padel Club Cup 2027</a>
+<a href="winter-cup.html" style="color: #FFFFFF">Winter Cup 2027</a>
+<a href="elite-network.html" style="color: #FFFFFF">Circuito Elite Network</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px">
+<div style="font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4F04A">CSAIN</div>
+<a href="https://www.csain.it/" style="color: #FFFFFF">CSAIN nazionale</a>
+<a href="https://www.csainlazio.it" style="color: #FFFFFF">CSAIN Lazio</a>
+<a href="https://www.csainlazio.it/affiliazione/" style="color: #FFFFFF">Affiliazione</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px">
+<div style="font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4F04A">Seguici</div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 260px">
+<a href="https://www.instagram.com/csainpadelclubcup/" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; border-radius: 999px; border: 1px solid #4A6A91; color: #FFFFFF; text-decoration: none; font-weight: 600; font-size: 14px">Instagram</a>
+<a href="https://www.facebook.com/CsainPadelClubCupSpecialEdition2026/" style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; border-radius: 999px; border: 1px solid #4A6A91; color: #FFFFFF; text-decoration: none; font-weight: 600; font-size: 14px">Facebook</a>
+<a href="https://wa.me/393933303652" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px; border-radius: 999px; background: #25D366; color: #073B2F; text-decoration: none; font-weight: 700; font-size: 14px"><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20l1.3-3.9A8 8 0 1 1 8 19z"></path></svg>WhatsApp</a>
+<span style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; border-radius: 999px; border: 1px dashed #4A6A91; color: #9FB3CB; font-weight: 600; font-size: 14px">TikTok</span>
+<span style="display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; border-radius: 999px; border: 1px dashed #4A6A91; color: #9FB3CB; font-weight: 600; font-size: 14px">YouTube</span>
+</div>
+<a href="mailto:info@csainpadelclubcup.it" style="color: #FFFFFF; margin-top: 6px">info@csainpadelclubcup.it</a>
+</div>
+</div>
+<div style="max-width: 1240px; margin: 0 auto; padding: 20px 24px 32px; border-top: 1px solid #23456E; font-size: 14px; color: #9FB3CB; display: flex; flex-wrap: wrap; gap: 8px 24px"><span>© 2026 CSAIN Padel Club Cup</span><a href="privacy.html" style="color: #FFFFFF">Privacy e cookie</a><span>info@csainpadelclubcup.it</span><span>Tel. 393.330.36.52</span></div>
+</footer>
+<script>
+document.querySelectorAll('[data-menu-toggle]').forEach(function(b){
+  b.addEventListener('click', function(){
+    var m = document.querySelector('.mobile-menu'); if(!m) return;
+    var open = m.hasAttribute('hidden'); if(open) m.removeAttribute('hidden'); else m.setAttribute('hidden','');
+    b.setAttribute('aria-expanded', String(open));
+  });
+});
+</script>
+</div>
+</body>
+</html>

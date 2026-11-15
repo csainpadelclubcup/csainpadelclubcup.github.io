@@ -17,3 +17,11 @@ Tutte le pagine seguono queste regole: ogni modifica nuova deve rispettarle.
 - **Spazi:** sezioni larghe al massimo 1240px con 24px ai lati; 64px sopra ogni sezione, 88px in fondo all'ultima.
 - **Calendari e formule:** tappe in fila con data in grande e linea sopra (lime per la prima, blu per le altre), mai riquadri colorati pieni.
 - **Foto affiancate a un blocco:** foto a sinistra, contenuto a destra; alternare il lato del blocco pieno tra sezioni vicine.
+
+## Account e accesso (due livelli)
+
+Stesso sistema di accesso del sito sportandservicespadel.it (stesso servizio di accesso), con sessione separata per questo sito.
+
+- **Livello 1, account generico:** pagina `account.html` (registrazione normale con conferma via mail, accesso, password dimenticata). Per rendere riservata una pagina: includere `js/auth.js` e aggiungere `<script>CSAINAuth.richiediAccesso()</script>` in testa; chi non è entrato viene portato all'accesso e poi torna alla pagina.
+- **Livello 2, riconoscimento personale:** `CSAINAuth.personale.richiedi(sezione)` manda un codice di 6 cifre alla mail scritta nella riga personale (controlla nome, cognome e data di nascita del profilo); `CSAINAuth.personale.verifica(sezione, codice)` apre i dati; `CSAINAuth.personale.mie(sezione)` legge le righe sbloccate. Backend: `supabase/csain-livello2.sql` e `supabase/functions/csain-codice`. Le sezioni personali non sono ancora state create.
+- Le pagine pubbliche (regolamento, calendari, moduli, iscrizioni) restano aperte a tutti.
