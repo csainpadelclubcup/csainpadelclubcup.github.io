@@ -8,7 +8,7 @@ const URL = Deno.env.get("SUPABASE_URL")!, SK = Deno.env.get("SUPABASE_SERVICE_R
 const H = { apikey: SK, Authorization: "Bearer " + SK, "Content-Type": "application/json" };
 const CORS = { "Access-Control-Allow-Origin": "*", "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type", "Access-Control-Allow-Methods": "POST, OPTIONS" };
 const out = (o: unknown, s = 200) => new Response(JSON.stringify(o), { status: s, headers: { ...CORS, "Content-Type": "application/json" } });
-const norm = (s: unknown) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/\s+/g, " ").trim();
+const norm = (s: unknown) => String(s ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/\s+/g, " ").trim();
 const sha = async (s: string) => Array.from(new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s)))).map((b) => b.toString(16).padStart(2, "0")).join("");
 const mask = (m: string) => { const [a, d] = m.split("@"); return (a.slice(0, 2) + "*".repeat(Math.max(a.length - 2, 3))) + "@" + d; };
 const rest = (p: string, o: RequestInit = {}) => fetch(`${URL}/rest/v1/${p}`, { ...o, headers: { ...H, ...(o.headers || {}) } });
@@ -43,8 +43,11 @@ Deno.serve(async (req) => {
     const row = { user_id: uid, sezione: sez, hash: await sha(codice + uid + sez), record_ids: trovate.map((s) => s.id), scade: new Date(Date.now() + 15 * 60000).toISOString(), tentativi: 0, creato: new Date().toISOString() };
     await rest("csain_codici?on_conflict=user_id,sezione", { method: "POST", headers: { Prefer: "resolution=merge-duplicates" }, body: JSON.stringify(row) });
 
-    const tx = nodemailer.createTransport({ host: Deno.env.get("CSAIN_SMTP_HOST") ?? "", port: 465, secure: true, auth: { user: Deno.env.get("CSAIN_SMTP_USER") ?? "", pass: Deno.env.get("CSAIN_SMTP_PASS") ?? "" } });
-    const da = Deno.env.get("CSAIN_SMTP_USER") ?? "";
+    // stessa casella già usata dal sito Sport & Services (secret SMTP_PASS); in futuro si possono impostare CSAIN_SMTP_*
+    const host = Deno.env.get("CSAIN_SMTP_HOST") ?? "mail.flazio.com";
+    const da = Deno.env.get("CSAIN_SMTP_USER") ?? "info@sportandservicespadel.it";
+    const pass = Deno.env.get("CSAIN_SMTP_PASS") ?? Deno.env.get("SMTP_PASS") ?? "";
+    const tx = nodemailer.createTransport({ host, port: 465, secure: true, auth: { user: da, pass } });
     const html = `<div style="font-family:Arial,Helvetica,sans-serif;background:#F3F5F8;padding:20px"><div style="max-width:520px;margin:0 auto;background:#fff;border-radius:14px;overflow:hidden">
 <div style="background:#0B2545;color:#fff;padding:16px 22px;font-weight:bold;letter-spacing:1px">CSAIN PADEL CLUB CUP</div>
 <div style="padding:22px;color:#0B2545;font-size:16px;line-height:1.5"><p style="margin:0 0 10px">Il tuo codice per aprire la tua area personale:</p>
